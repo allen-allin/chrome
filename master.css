@@ -86,6 +86,9 @@ section {
 section p {
   margin: 0 2rem 0 2rem;
 }
+section h3 {
+  margin: 1.2rem 0;
+}
 
 footer {
   background: #555;
