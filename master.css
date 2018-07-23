@@ -83,6 +83,9 @@ header h2 {
 section {
   padding: 2em 0 2em 0;
 }
+section p {
+  margin: 0 2rem 0 2rem;
+}
 
 footer {
   background: #555;
